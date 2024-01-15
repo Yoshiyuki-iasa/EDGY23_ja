@@ -43,3 +43,6 @@ Last modified
 This page was last modified on 8 June 2023, at 17:51.
 Copyright
 Content is availa
+
+---
+特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。

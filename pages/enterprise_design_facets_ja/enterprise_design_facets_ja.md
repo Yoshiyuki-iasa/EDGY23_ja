@@ -59,3 +59,7 @@ tags:
 ## バリエーション
 議論されているファセットの同義語、またはそれに近い言葉としてよく使われる概念のリストです。 これらのリストは完全なものではなく、ファセットが会話やデザインの実践でどのように使われるかを読者に広く理解してもらうためのものです。私たちは読者の皆さんが時と場合に応じご自分の仕事に役立つと思われるようにこれらのリストをご自分のバリエーションで修正されることをお勧めします。
 Artwork credits: Colorem — a generative artwork by Fabio Catapano illustrating the EDGY Enterprise Design Facets, reproduced with the artist's permission.
+
+---
+特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+
