@@ -1,4 +1,3 @@
-
 ---
 title_en: "Brand"
 title_ja: "ブランド"

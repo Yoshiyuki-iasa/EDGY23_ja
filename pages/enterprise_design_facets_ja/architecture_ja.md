@@ -21,28 +21,28 @@ tags:
 
 エンタープライズ・アーキテクチャは、リレーションをデザインすることで、アーキテクチャに関する様々な分野 (機械工学、ソフトウェア・アーキテクチャ、組織設計など) 、およびそのような分野の要素の相互作用として記述することができます。
 
-## アーキテクチャの例
+## アーキテクチャ・ファセットの具体例
 あるエンタープライズは…
 - 複数の独立したエンタープライズブランド、独立した事業、独立した資産を持つホールディングとして構成される。
 - 効率的なプロセスで市場のサプライチェーン全体のエンタープライズをつなぐために運営されているエンタープライズである。
 - 顧客がサービスを自動かつオンデマンドで利用するためのプラットフォームを運営している。
 - 独立したセルのネットワークであり、顧客のプロジェクトで再編成され、共に成果を達成する。
 
-## アーキテクチャの用法
+## アーキテクチャ・ファセットの活用法
 - エンタープライズがプロダクトを生み出すために必要な機能やプロセスを特定しデザインする。
 - プロダクトの創造に必要な装置、建物、ソフトウェアなどをデザインし、関連付ける。
 - シームレスなアプローチで、ケイパビリティに必要な組織的・技術的構造をデザインする。
 - ソフトウェアとデータ資産の可用性と利用を最適化する。
 - エンタープライズの実際の構造と望ましい構造を可視化し、意思決定に役立てる。
 
-## 要素
+## アーキテクチャ・ファセットに含まれる要素
 - [ケイパビリティ](/pages/enterprise_elements_ja/facets_and_intersection_elements_ja/_architecture/capability_ja.md)
 - [プロセス](/pages/enterprise_elements_ja/facets_and_intersection_elements_ja/_architecture/process_ja.md)
 - [アセット](/pages/enterprise_elements_ja/facets_and_intersection_elements_ja/_architecture/asset_ja.md)
 - [プロダクト](/pages/enterprise_elements_ja/facets_and_intersection_elements_ja/_intersection/product_ja.md) ([エクスペリエンス](/pages/enterprise_design_facets_ja/experience_ja.md)との[交差](/pages/enterprise_design_facets_ja/intersection_ja.md))
-- [組織](/pages/enterprise_elements_ja/facets_and_intersection_elements_ja/_intersection/brand_ja.md) (アイデンティティとの[交差](/pages/enterprise_design_facets_ja/intersection_ja.md))
+- [オーガニゼーション](/pages/enterprise_elements_ja/facets_and_intersection_elements_ja/_intersection/brand_ja.md) (アイデンティティとの[交差](/pages/enterprise_design_facets_ja/intersection_ja.md))
 
-## バリエーション
+## アーキテクチャのバリエーション
 - 組織構造
 - テクノロジー・アーキテクチャ
 - プロダクト・アーキテクチャ

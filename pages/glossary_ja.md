@@ -1,4 +1,3 @@
-
 ---
 title_en: "Grossary"
 title_ja: "用語集"
