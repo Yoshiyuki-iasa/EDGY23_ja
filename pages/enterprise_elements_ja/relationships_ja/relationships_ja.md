@@ -9,29 +9,30 @@ summary:
 tags: 
   - 
 ---
-#rRelationship
+# リレーション (関係)
 
-EDGY defines three types of relationships each of which can connect two elements to express their interplay. This limited number reflects a deliberately simplified model compared to other visual languages used in engineering practice.
+EDGYでは3種類のリレーションが定義され、それらを用いて2つの要素を結びつけることで相互作用を表現できます。この限られた数は、エンジニアリングの実務で使用される他の視覚言語と比較して、意図的に単純化されたモデルであることを示しています。
 
-Using just three relationships, various enterprise elements can be collected and connected:
+たった3つの関係を使うだけで、さまざまな企業要素を集め、つなげることができます。
 
-## Link
-A link relationship describes an association between two elements.
+## リンク
+リンク関係は、2つの要素間の関連を記述します。
 
-## Flow
-A flow relationship describes a behaviour or dynamic sequence between two elements, and the passing of objects between them.
+## フロー
+フロー関係は、2つの要素の間の振る舞いや動的なシーケンス、およびそれらの間のオブジェクトの受け渡しを記述します。
 
-## Tree
-A tree relationship describes a containment or aggregation between a parent and a child element of the same type.
+## ツリー
+ツリー関係は、同じ型の親要素と子要素の間の包含または集約を記述します。
 
-## Relationships connect elements
-The link relationship is an association between two elements. By default it is non-directional and unnamed and just shows that the two elements are related. Links can also be made directional by giving them a direction and a name.
+## リレーションがエレメントを結合する
+リンク関係は2つの要素間の関連です。デフォルトでは無指向性、無名で、2つの要素が関連していることを示すのみです。リンクに方向と名前をつけることで、方向性を持たせることもできます。
 
-The flow and tree relationships are unidirectional, describing a source and a target endpoint.
+フローとツリーの関係は一方向で、ソースとターゲットのエンドポイントを記述します。
 
-If a bi-directional connection between elements is intended, two relationships should be defined: one from element A to element B and one from B to A.
+要素間の双方向接続を意図する場合は「要素Aから要素B」「要素Bから要素A」の、2つの関係を定義する必要があります。
 
-All three relationships can be displayed visually as a line or arrow, but also expressed implicitly through proximity, containment, indentation or alignment on a grid.
+この3つの関係はすべて線や矢印として視覚的に表現できますが、近接、包含、インデント、グリッド上の整列などの暗黙的な表現も可能です。
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

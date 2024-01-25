@@ -9,41 +9,42 @@ summary:
 tags: 
   - 
 ---
-# Channel
-**The means people use to engage and interact with us.**
+# チャネル
+**人々が私たちと関わり、交流するための手段。**
 
-## Description
-Channels are the means of communication between people and the enterprise. They are where moments of interaction between people and the enterprise take place. They includes media, devices, communication systems, or physical environments used to facilitate interactions.
+## 解説
+チャネルとは、人々とエンタープライズとの間のコミュニケーション手段です。 人々と企業との交流が生じる時間です。メディア、デバイス、通信システム、あるいはインタラクションを促進するための物理的環境も含まれます。
 
-## Channel Map
-EDGY Channel Map / Touchpoint Map
+## チャネルマップ
+![チャネルマップ](/media/Channel_ja.jpg)
 
-Depicting a classification by tagging. Also known as Touchpoint Map.
+タグ付けによる分類を表現します。タッチポイント・マップとも呼ばれます。
 
-## Examples
-- An airline uses an instant messenger app to communicate with their customers synchronously, helped by an inbound call centre.
-- An insurance company operates physical stores to sell printed tickets to use their services.
-- A tech company builds a virtual Metaverse presence to interact with their job candidates.
+## チャネルの具体例
+- ある航空会社は、インスタントメッセンジャーアプリを使って顧客と同期的にコミュニケーションをとり、インバウンドコールセンターがそれをサポートする。
+- 保険会社は実店舗を運営し、サービスを利用するための印刷されたチケットを販売している。
+- ある技術系企業が、求職者と交流するためにバーチャルメタバースを構築した。
 
-## Use
-- Get an overview of where/how people interact with the enterprise or each other and make them connect.
-- Manage channels as part of engagement strategies, such as cross-channel or omni-channel engagement.
-- Trace journeys across physical and digital channels, and optimise products and brands for preferred media and environments.
+## チャネルの活用例
+- 人々がどこでどのようにエンタープライズと、または人々同士で関わっているかを把握し、それらを結びつける。
+- クロスチャネルやオムニチャネルなど、エンゲージメント戦略の一環としてチャネルを管理する。
+- リアルチャネルとデジタルチャネルを横断してジャーニーを追跡し、好みのメディアや環境に合わせて商品やブランドを最適化する。
 
-## Base element
-- channel is an object
+## 関連するベース・エレメント
+- チャネルはオブジェクトである
 
-## Related
-- journey traverses channel
-- task uses channel
+## 関連する他のエレメント
+- ジャーニーはチャネルを横断する
+- タスクはチャネルを使用する
 
-## Suggested labels
-- digital, physical, hybrid (tag)
-- full control, shared control, influence, no control (tag)
-- synchronous, asynchronous (tag)
-- automated, manual, hybrid (tag)
-- usage (metric)
-- cost (metric)
+## ラベルの推奨例
+- デジタル、リアル、ハイブリッド (タグ)
+- フルコントロール、シェアードコントロール、インフルエンス、ノーコントロール (タグ)
+- 同期、非同期 (タグ) ※インターフェースとして
+- 自動、手動、ハイブリッド (タグ) ※同上
+- 稼働率 (メトリクス)
+- コスト (メトリクス)
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

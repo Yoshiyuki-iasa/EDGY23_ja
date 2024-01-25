@@ -9,44 +9,44 @@ summary:
 tags: 
   - 
 ---
-# Journey
-**The events and activities people experience in their lives.**
+# ジャーニー
+**人々が生活において経験する出来事や活動**
 
-## Description
-A journey describes what a person does, feels, thinks, or otherwise experiences over time as they live a specific portion of their life, in particular when interacting with our enterprise. It is captured as a simplified sequential and chronological representation of activities and events people experience, and tasks they want to accomplish. Journeys are commonly documented using a storytelling format, describing a slice of life of an exemplary person or persona. Aspects that are typically captured are motivation, activities, tasks, channels of interaction, physical or digital environments, emotional states, first-hand observations and analytics data related to the journey.
+## 解説
+ジャーニーは、人々が生活の特定の部分、特に私たちのエンタープライズとの関わりにおいて、時間をかけたり、感じたり、考えたり、経験したりする何かを表します。それは人々が経験する活動や出来事、そして達成したいタスクを、簡略化された連続的かつ時系列的な表現として捉えます。ジャーニーは一般的に、人物の類型やペルソナの人生の一片を描写するストーリーテリング形式で記録されます。ジャーニーは一般的にモチベーション、アクティビティ、タスク、インタラクションのチャネル、物理的またはデジタルな環境、感情的な状態、直接の観察、ジャーニーに関連する分析データなどとして描写されます。
 
-## Journey Map
-EDGY Journey Map / Customer Journey Map / User Journey Map
+## ジャーニー・マップ
+![ジャーニー・マップ](/media/Journey_ja.jpg)
 
-Depicting a flow relationship. Also known as Customer Journey Map or User Journey Map.
+フロー関係を表します。カスタマー・ジャーニー・マップ、ユーザー・ジャーニー・マップとも呼ばれます。
 
-## Examples
-- A traveller goes through a journey of making travel plans, booking tickets and making other arrangements, and finally embarking on the actual trip to arrive at their destination.
-- A new employee goes through a journey of signing the contract, a set of onboarding activities planned by the employer, and meeting their team for the first time.
-- A neighbour living next to a construction site files a complaint about noise levels during the night and interacts with the corresponding representatives from enterprises and authorities involved.
-- An investor attends the annual meeting of a company they bought shares from.
+## ジャーニーの具体例
+- ある旅行者は、旅行の計画を立て、航空券を予約し、その他の手配をし、そして最終的に目的地に到着するために実際の旅に出る。
+- ある新入社員は、契約書に署名し、雇用主が計画した一連のオンボーディング活動を経て、初めてチームに会う、というジャーニーを経る。
+- 建設現場の隣に住む近隣住民が、夜間の騒音レベルについて苦情を申し立て、関係する企業や当局の担当者とやり取りをする。
+- ある投資家が、株式を購入した会社の年次総会に出席する。
 
-## Use
-- Promote an empathetic view of the people we are designing for/with.
-- Share insight and data about people's lives in a narrative scenario form that co-creators can relate to.
-- Spot opportunities and gaps to be addressed by our brands and products over time.
-- Clarify what steps people take.
-- Understand pain points and potential gains.
+## ジャーニーの活用例
+- 私たちがデザインを提供する、または共にデザインしている人々に対する共感的な見方を促進する。
+- 人々の生活に関する洞察やデータを、共同創造者が共感できるようなシナリオ形式で共有する。
+- 私たちのブランドや製品が長期的に取り組むべき機会やギャップを見出す。
+- 人々がどのようなステップを踏むかを明確にする。
+- ペインポイントと潜在的な利益を理解する。
 
-## Base element
-- journey is an activity
+## 関連するベース・エレメント
+- ジャーニーはアクティビティである
 
-## Related
-- product features in journey
-- brand appears in journey
-- task is part of journey
-- journey traverses channel
+## 関連する他のエレメント
+- プロダクトはジャーニーの主役である
+- ブランドはジャーニーに現れる
+- タスクはジャーニーの一部である
+- ジャーニーはチャネルを横断する
 
-## Suggested Labels
-- lifecycle, task related, funnel, transaction (tag)
-- duration (metric)
-- satisfaction (metric)
-
+## ラベルの推奨例
+- ライフサイクル、タスク、関連、ファンネル、取引 (タグ) 
+- 継続期間 (メトリクス)
+- 満足度 (メトリクス)
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

@@ -9,49 +9,51 @@ summary:
 tags: 
   - 
 ---
-# Brand
-**Our name and what it stands for.**
+# ブランド
+**私たちの名前と、それが象徴するもの。**
 
-## Description
-A brand is a symbolic representation that stands for our enterprise and its products. It is designed to communicate our identity, especially how we are different from others. It invokes a set of expectations in people about our enterprise and our products, particularly in relation to people's own needs and desires. People have intentionally designed brand experiences through ads, public communications and their direct experiences with our products. In addition, people's perceptions of our brand is influenced by many other factors: any interaction they have with our products, processes and people; any public communication about our brand; any stories going around. Positive expectations about a brand pull people towards the products an enterprise offers, negative expectations push them away. That's why a brand is also a financial asset we invest in and obtain benefits from, by purposely creating awareness and improving or maintaining our reputation with our customers, partners and investors. Brand names are often protected as a registered trademark expressed in words, visual signs or other media representations.
+## 解説
+ブランドとは、エンタープライズやそのプロダクトを象徴するものです。それは私たちのアイデンティティ、特に私たちが他とどう違うかを伝えるためにデザインされていまず。それは私たちのエンタープライズやプロダクトについて、特に人々自身のニーズや願望に関連して、人々に一連の期待を呼び起こします。人々は広告やパブリック・コミュニケーション、またプロダクトの直接的な体験を通じ、ブランド体験を意図的にデザインしてきました。さらに私たちのブランドに対する人々の認識は、私たちのプロダクト、プロセス、従業員とのあらゆる交流、私たちのブランドに関するあらゆる公的なコミュニケーション、世間で流布しているあらゆるストーリーなど、他の多くの要因に影響されます。ブランドに対するポジティブな期待は人々を企業が提供するプロダクトに引き寄せ、ネガティブな期待は人々を遠ざけます。だからこそブランドは、顧客、パートナー、投資家に対する認知度を意図的に高め、評判を改善または維持することによって、私たちが投資し、利益を得る金融資産でもあるのです。ブランド名は多くの場合、言葉、視覚的標識、その他のメディア表示で表現された登録商標として保護されます。
 
-## Brand Map
-EDGY Brand Map / Brand Architecture / Brand Portfolio
+## ブランドマップ
 
-Depicting a tree relationship. Also known as Brand Architecture or Brand Portfolio.
+![ブランドマップ](/media/Brand_ja.jpg)
 
-## Examples
-- The name a consumer goods company uses to represent itself, protected as a trademark and associated with a visual logo.
-- A product name used for sales on commercial markets and within franchising partnerships.
-- A label used by different companies to communicate and emphasise a sustainability certification.
-- A name or slogan a team inside an organisation uses in their email signature to differentiate themselves or their role internally.
-The name and website URL of an internal digital portal or application.
+ツリー関係を表します。ブランド・アーキテクチャまたはブランド・ポートフォリオとも呼ばれます。
 
-## Use
-- Structure, plan and create brand identities, their interrelations, dependencies and expressions (e.g. physical appearance, culture, values, promises).
-- Differentiate brands and understand how their images and connotations are perceived and valued by their intended audiences.
-- Associate brands with the objects they represent, such as organisation entities, products or other branded elements the enterprise produces.
-- Ensure enterprise products, activities and content are not contradicting or undermining the intended brand identities of the enterprise.
+## ブランドの具体例
+- 消費財メーカーが自社を表すために使用する、商標として保護されビジュアルロゴと関連付けられた名称。
+- 商業市場やフランチャイズ提携内での販売に使用される商品名。
+- さまざまな企業が、持続可能性認証を伝達し、強調するために使用するラベル。
+- 組織内のチームが、自分自身や自分の役割を社内で差別化するために、電子メールの署名に使用する名前やスローガン。
+社内デジタルポータルまたはアプリケーションの名前とウェブサイトのURL。
 
-## Base element
-brand is an object
+## ブランドの活用例
+- ブランド・アイデンティティ、その相互関係、依存関係、表現 (外観、文化、価値、約束など) を構造化し、計画し、創造する。
+- ブランドを差別化し、そのイメージや意味合いが想定されるオーディエンスにどのように受け止められ、評価されているかを理解する。
+- 組織体、製品、その他企業が生産するブランド要素など、ブランドが表す対象とブランドを関連付ける。
+- 企業の製品、活動、コンテンツが、企業の意図するブランド・アイデンティティと矛盾したり、損なったりしていないことを確認する。
 
-## Related
-- organisation builds brand
-- product embodies brand
-- brand evokes story
-- brand represents purpose
-- brand supports task
-- brand appears in journey
+## 関連するベース・エレメント
+- ブランドはオブジェクトである
 
-## Suggested Labels
-- organisation, product (tag)
-- internal, external (tag)
-- owned, shared (tag)
-- trademarked, informal (tag)
-- cost (metric)
-- valuation (metric)
-- perception (metric)
+## 関連する他のエレメント
+- オーガニゼーションはブランドを構築する
+- プロダクトはブランドを体現する
+- ブランドはストーリーを喚起する
+- ブランドはパーパスを表す
+- ブランドはタスクを支援する
+- ブランドはジャーニーに現れる
+
+## ラベルの推奨例
+- オーガニゼーション、プロダクト (タグ)
+- 内部、外部 (タグ)
+- オウンド、シェアード (タグ)
+- 商標登録済み、非公式 (タグ)
+- コスト (メトリクス)
+- 評価額 (メトリクス)
+- 認知度 (メトリクス)
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

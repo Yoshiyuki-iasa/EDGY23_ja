@@ -9,24 +9,25 @@ summary:
 tags: 
   - 
 ---
-# Link
-**A meaningful structural association between two elements.**
+# リンク
+**2つの要素間の意味のある構造的関連。**
 
-A link expresses a structural relationship between two elements in terms that explain or illustrate the relevance of that relationship to the enterprise.
+リンクは2つの要素間の構造的な関係を、エンタープライズに関する説明または例示として表現します。
 
-## Core links
-EDGY provides a rich and expressive vocabulary, including twenty-four pre-defined types of links. Using these links will enable co-designers from different disciplines to better communicate and connect their specialised designs across their disciplines.
+## コア・リンク
+EDGYは、あらかじめ定義された24種類のリンクを含む、豊かで表現力のある語彙を提供します。これらのリンクを使用し、異なる分野の共同デザイナーが、それぞれの専門分野に特化したデザインをよりよく伝え、つなげることができます。
 
+![コア・リンク](/media/EDGY-Enterprise-Elements-Core-Links.png)
 
-## Facet core links
-**Identity**
-- story contextualises purpose
-- content expresses purpose
-- content conveys story
-**Experience**
-- task is part of journey
-- task uses channel
-- journey traverses channel
+## ファセット・コア・リンク
+**アイデンティティ**
+- ストーリーはパーパスに文脈を与える
+- コンテンツはパーパスを表現する
+- コンテンツはストーリーを伝達する
+**エクスペリエンス**
+- タスクはジャーニーの一部である
+- タスクはチャネルを使用する
+- ジャーニーはチャネルを横断する
 **Architecture**
 - capability requires asset
 - process realises capability
@@ -73,4 +74,5 @@ EDGY Elements: Shortcut Links
 Shortcuts can be used to enrich the model further and tailor the language for specific design challenges. Designers should be aware, however, that the more custom links they introduce, the harder it will become to communicate and connect their designs to other disciplines.
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

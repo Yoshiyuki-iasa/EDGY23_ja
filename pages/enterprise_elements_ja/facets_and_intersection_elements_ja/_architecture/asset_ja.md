@@ -1,8 +1,8 @@
 ---
-title_en: "Process"
-title_ja: "プロセス"
+title_en: "Asset"
+title_ja: "アセット"
 keywords: 
-source_url: https://enterprise.design/wiki/Capability
+source_url: https://enterprise.design/wiki/Asset
 source_last_modified: 8 June 2023, at 18:38
 folder: pages/enterprise_elements/facets_and_intersection_elements/_architecture
 summary:
@@ -10,13 +10,14 @@ tags:
   - 
 ---
 # アセット
-**我々の能力を発揮するために必要であり、使用するオブジェクト。**
+**わたしたちのケイパビリティを発揮するために必要であり、使用するオブジェクト**
 
 ## 解説
 エンタープライズは、事業運営に必要なケイパビリティを発揮するために、広範な有形または無形のアセット（建物、機械、原材料、ソフトウェア・アプリケーション、金融資産、ノウハウなど）を開発、購入、管理する必要があります。概念としてのアセットは、経済学、戦略的経営、財務に根ざしています。サプライヤーからアセットを購入することは、エンタープライズをサプライ・チェーンと結びつけます。
 
 ## アセット・マップ
 
+![アセット・マップ](/media/Assets_ja.jpg)
 リンク関係を表します。 アプリケーションアーキテクチャとも呼ばれます。
 
 ## アセットの例
@@ -46,4 +47,5 @@ tags:
 - コスト (メトリック)
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

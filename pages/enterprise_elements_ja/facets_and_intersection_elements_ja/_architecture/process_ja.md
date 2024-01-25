@@ -2,7 +2,7 @@
 title_en: "Process"
 title_ja: "プロセス"
 keywords: 
-source_url: https://enterprise.design/wiki/Capability
+source_url: https://enterprise.design/wiki/Process
 source_last_modified: 8 June 2023, at 18:38
 folder: pages/enterprise_elements/facets_and_intersection_elements/_architecture
 summary:
@@ -18,6 +18,7 @@ tags:
 よくデザインされたプロセスは、必要なすべての組織単位で効率的かつ効果的に運営されるエンタープライズへとつながります。
 
 ## プロセスマップ
+![プロセスマップ](/media/Process_ja.jpg)
 
 ツリーとフローの関係を表します。プロセスモデル、またはプロセスチャートとも呼ばれます。
 
@@ -51,4 +52,5 @@ tags:
 - コスト (メトリック)
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

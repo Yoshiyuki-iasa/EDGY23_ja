@@ -1,6 +1,6 @@
 ---
 title_en: "outcome"
-title_ja: "ピープル"
+title_ja: "アウトカム"
 keywords: 
 source_url: https://enterprise.design/wiki/outcome
 source_last_modified: 8 June 2023, at 18:14
