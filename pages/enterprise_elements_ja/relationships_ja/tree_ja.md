@@ -9,24 +9,27 @@ summary:
 tags: 
   - 
 ---
-# Tree
-**An element is part of another element of the same type.**
+# ツリー
+**ある要素は、同じ型の別の要素の一部である。**
 
 A tree represents a hierarchical whole/part relationship between elements of the same type. Hierarchical relationships are based on degrees or levels of superordination and subordination, where the superordinate element represents a whole and subordinate elements represent its members or parts.
 
-## Notation
-EDGY Tree Relationship / Hierarchical Maps
+ツリーは、同じタイプの要素間の階層的な全体と部分の関係を表します。階層関係は、上位と下位の程度やレベルに基づくもので、上位の要素は全体を表し、下位の要素はそのメンバーや部分を表します。
 
-## Examples
-- An organisation is structured as a tree of departments, teams and roles.
-- A capability decomposition is structured as a tree of sub-capabilities.
-- A product portfolio is structured as a tree of categories, products and components.
-- A brand portfolio is structured as a tree of corporate, product and special edition brands.
-- A purpose and goal portfolio is structured as a tree of strategic, tactical and operational outcomes.
+## 表記
+![EDGYツリー関係 / 階層マップ](/media/EDGY-Tree-Relationship.png)
 
-## Use
-- Decompose an element into its smaller sub-elements.
-- Express that a sub-element is a part of its superior element.
+## ツリーの例
+- 組織は、部門、チーム、役割のツリーとして構成される。
+- ケイパビリティの要素分解は、サブ・ケイパビリティのツリーで構成される。
+- 製品ポートフォリオは、カテゴリー、製品、コンポーネントのツリー構造である。
+- ブランド・ポートフォリオは、コーポレート・ブランド、プロダクト・ブランド、スペシャル・エディション・ブランドのツリーとして構成される。
+- パーパスとゴールのポートフォリオは、戦略的、戦術的、業務的成果のツリーで構成される。
+
+## ツリーの活用例
+- 要素をより小さな下位要素に分解する。
+- ある下位要素はある上位要素の一部であることを表す。
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

@@ -28,50 +28,52 @@ EDGYは、あらかじめ定義された24種類のリンクを含む、豊か�
 - タスクはジャーニーの一部である
 - タスクはチャネルを使用する
 - ジャーニーはチャネルを横断する
-**Architecture**
-- capability requires asset
-- process realises capability
-- process requires asset
+**アーキテクチャ**
+- ケイパビリティはアセットを必要とする
+- プロセスはケイパビリティを具現化する
+- プロセスはアセットを必要とする
 
-## Intersection core links
-- organisation builds brand
-- organisation makes product
-- product embodies brand
+## インターセクション・コア・リンク
+- オーガニゼーションはブランドを築く
+- オーガニゼーションはプロダクトを作る
+- プロダクトはブランドを体現する
 
-## Product / Experience
-- product serves task
-- product features in journey
+## プロダクト / エクスペリエンス
+- プロダクトはタスクを支援する
+- プロダクトはジャーニーを特徴づける
 
-## Product / Architecture
-- product requires capability
-- process creates product
+## プロダクト / アーキテクチャ
+- プロダクトはケイパビリティを必要とする
+- プロセスはプロダクトを作る
 
-## Organisation / Identity
-- organisation pursues purpose
-- organisation authors story
+## オーガニゼーション / アイデンティティ
+- オーガニゼーションはパーパスを追求する
+- オーガニゼーションはストーリーを著述する
 
-## Organisation / Architecture
-- organisation has capability
-- organisation performs purpose
+## オーガニゼーション / アーキテクチャ
+- オーガニゼーションはケイパビリティを保有する
+- オーガニゼーションはプロセスを実行する
 
-## Brand / Identity
-- brand evokes story
-- brand represents purpose
+## ブランド / アイデンティティ
+- ブランドはストーリーを喚起する
+- ブランドはパーパスを象徴する
 
-## Brand / Experience
-- brand supports task
-- brand appears in journey
+## ブランド / エクスペリエンス
+- ブランドはタスクを支援する
+- ブランドはジャーニーに登場する
 
-## Mapping elements with core links
-EDGY Mapping with Core Links (example)
+## 要素とコア・リンクのマッピング
+![EDGY コア・リンクトのマッピング (例)](/media/EDGY-Core-Links-Example.png)
 
-## Shortcuts
-In addition to the pre-defined core links, EDGY allows designers to bypass this model by defining custom links between elements. This creates a shortcut which can be broken down into several core links.
+## ショートカット
+In addition to the pre-defined core links, EDGY allows designers to bypass this model by defining custom links between elements. 
 
-EDGY Elements: Shortcut Links
+定義済みのコア・リンクに加え、EDGYでは要素間のカスタムリンクを定義することで、このモデルをバイパスすることができます。これは、いくつかのコアリンクに分解できるショートカットを作成します。
 
-## Use
-Shortcuts can be used to enrich the model further and tailor the language for specific design challenges. Designers should be aware, however, that the more custom links they introduce, the harder it will become to communicate and connect their designs to other disciplines.
+![EDGY要素: ショートカット・リンク](/media/EDGY-Elements-Links-Shortcuts.png)
+
+**用法**
+ショートカットを使用することで、モデルをさらに充実させ、特定のデザイン課題に合わせて言語を調整できます。しかし、カスタム・リンクを増やせば増やすほど、デザインを他の分野に伝え、つなげることが難しくなることを、デザイナーは認識する必要があります。
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。

@@ -9,18 +9,16 @@ summary:
 tags: 
   - 
 ---
-# Toools
+# ツール
+EDGY23は、エンタープライズ・デザイン共創のためのオープンソースツールです。Intersection Groupは、メンバーコミュニティと共に開発された、またパートナーによって作られたツールのコレクションを提供しています。これらのツールの多くは、無償で利用できます。これらのツールは、ワークショップの進行、EDGYダイアグラムのモデリング、エンタープライズ要素のリポジトリへの保存を支援します。
 
-EDGY 23 is an Open Source tool for collaborative Enterprise Design. Intersection Group provides a collection of tools, both developed with our member community and made by partners. Many of these tools are available for free, or included for free in otherwise commercial licenses. Those tools help you with facilitating workshops, modelling EDGY diagrams or storing your enterprise elements in a repository.
+今後、さらに多くのツールが提供される予定ですので、ぜひ試しにダウンロードして、あなたの仕事に与える付加価値を確かめてください。
 
-More and more tools will be made available over time, we encourage you to download them and try them out to see what value they add to your work.
-
-
-## EDGY 23 Documentation
-You can download the EDGY 23 Language Foundation specification as a PDF or order it as an A4 landscape softcover book.
-![EDGY Book]
-**Download the PDF version**
-**Read online Get the book**
+## EDGY23ドキュメンテーション
+EDGY23 Language Foundation 仕様書はPDFでダウンロードするか、A4横長のソフトカバー本としてご注文いただけます。
+<a href="https://shop.intersection.group/products/edgy-23-softcover" target="_blank"><img src="/media/EDGY-Book.png" alt="EDGY Book" width="30%"></a>
+**[PDFバージョンのダウンロード](https://edgydownloads.gr8.com/)**
+**[Read online](https://enterprise.design/wiki/EDGY:Sitemap) [Get the book](https://shop.intersection.group/products/edgy-23-softcover)**
 
 ## EDGY 23 Stencils
 **EDGY for Miro**
@@ -61,4 +59,5 @@ This mapping allows combining EDGY with ArchiMate®, an open and independent mod
 **Learn more about EDGY and ArchiMate®**
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
+[![CC logo](/media/cc.png)](/pages/license_ja.md)

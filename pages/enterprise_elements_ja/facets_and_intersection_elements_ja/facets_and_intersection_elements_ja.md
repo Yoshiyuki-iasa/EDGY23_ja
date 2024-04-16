@@ -27,12 +27,12 @@ tags:
 - [パーパス](_identity/purpose_ja.md): エンタープライズが存在する理由、人々が追い求めるもの、信じるもの。
 - [ストーリー](_identity/story_ja.md): 私たちがエンタープライズを理解し、それが何をしているのかを人々に伝える方法。
 - [コンテンツ](_identity/content_ja.md): 人々に伝えられている何か。
-- [組織](_intersection/organization_ja.md): 一緒に働く人々の集団。
+- [オーガニゼーション](_intersection/organization_ja.md): 一緒に働く人々の集団。
 - [ケイパビリティ](_architecture/capability_ja.md): 人と資産を組織化することによってできること。
 - - [パーパス](_identity/purpose_ja.md): エンタープライズが存在する理由、人々が追い求めるもの、信じるもの。
 - [ストーリー](_identity/story_ja.md): 私たちがエンタープライズを理解し、それが何をしているのかを人々に伝える方法。
 - [コンテンツ](_identity/content_ja.md): 人々に伝えられている何か。
-- [組織](_intersection/organization_ja.md): 一緒に働く人々の集団。
+- [オーガニゼーション](_intersection/organization_ja.md): 一緒に働く人々の集団。
 - [ケイパビリティ](_architecture/capability_ja.md): 人と資産を組織化することによってできること。
 - - [プロセス](_architecture/process_ja.md): エンタープライズが行う一連の関連した活動。
 - [アセット](_architecture/asset_ja.md): 我々のケイパビリティを発揮するために必要となる、また使用するオブジェクト。
