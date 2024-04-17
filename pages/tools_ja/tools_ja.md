@@ -15,18 +15,20 @@ EDGY23は、エンタープライズ・デザイン共創のためのオープ�
 今後、さらに多くのツールが提供される予定ですので、ぜひ試しにダウンロードして、あなたの仕事に与える付加価値を確かめてください。
 
 ## EDGY23ドキュメンテーション
-EDGY23 Language Foundation 仕様書はPDFでダウンロードするか、A4横長のソフトカバー本としてご注文いただけます。
-<a href="https://shop.intersection.group/products/edgy-23-softcover" target="_blank"><img src="/media/EDGY-Book.png" alt="EDGY Book" width="30%"></a></br>
-**[PDFバージョンのダウンロード](https://edgydownloads.gr8.com/)**
-**[オンラインで読む](https://enterprise.design/wiki/EDGY:Sitemap)** **[書籍を購入](https://shop.intersection.group/products/edgy-23-softcover)**
+EDGY23 Language Foundation 仕様書はPDFでダウンロードするか、A4横長ソフトカバー書籍として購入できます。
+</br><a href="https://shop.intersection.group/products/edgy-23-softcover" target="_blank"><img src="https://enterprise.design/w/images/thumb/3/34/EDGY-Book.png/450px-EDGY-Book.png" alt="EDGY Book" width="30%"></a></br>
 
-## EDGY 23 Stencils
+[**PDFバージョンのダウンロード**](https://edgydownloads.gr8.com/)
+[**オンラインで読む**](https://enterprise.design/wiki/EDGY:Sitemap) [**書籍を購入**](https://shop.intersection.group/products/edgy-23-softcover)
+
+## EDGY 23 ステンシル
 **EDGY for Miro**
-Use this template in the Miroverse to create a collaborative whiteboard with EDGY stencils and example maps.
-![EDGY Stencils for Miro]
-**Use EDGY in Miro**
+Miroverseのこのテンプレートを使って、EDGYステンシルやマップ例を用いた共有ホワイトボードを作成しましょう。
+</br><a href="https://miro.com/miroverse/edgy-stencils-and-examples/" target="_blank"><img src="https://enterprise.design/w/images/thumb/b/ba/EDGY-Stencils-miro.png/450px-EDGY-Stencils-miro.png" width="30%" alt="EDGY Stencils for Miro"></a></br>
 
-## EDGY for diagrams.net and Confluence
+[**MiroでEDGYをつかう**](https://miro.com/miroverse/edgy-stencils-and-examples/)
+
+## 「diagrams.net」および「Confluence」用のEDGY
 Draw EDGY maps using the free diagramming software drawio.com. You can also use the Atlassian Confluence as a repository for storing your EDGY elements and link them to your EDGY maps, using the diagrams.net app for Confluence. Use the Intersection Railways example maps as a starting point to draw your own EDGY maps: download the PNG files and open them in drawio.com to edit.
 ![EDGY Stencils for diagrams EDGY Example maps for diagrams.net]
 **Download EDGY stencils / example maps**
