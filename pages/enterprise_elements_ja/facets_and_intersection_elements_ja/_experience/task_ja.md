@@ -20,8 +20,7 @@ tags:
 理想的には調査による証拠に基づき、人々のタスクを明確にすることで、私たちのエンタープライズは人々の最も重要なニーズと動機に焦点を当てることができます。これは、カスタマーに価値あるものを提供することで、プロダクトに変化をもたらす機会を提供します。また、従業員やパートナー、その他の重要な人たちのニーズを理解するのにも役立ち、仕事の役割やパートナーシップのデザインに利用することができます。これは、私たちのエンタープライズが人々の生活において果たす役割を向上させるのに役立ちます。
 
 ## タスクマップ
-
-![タスクマップ](/media/Task_ja.jpg)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Task_ja.jpg?raw=true" width="100%"></br>
 ツリーの関係を表します。ジョブマップまたはメンタルモデル図としても知られています (参考資料参照)。
 
 ## タスクの具体例
@@ -52,4 +51,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

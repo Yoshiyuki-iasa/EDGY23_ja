@@ -18,8 +18,7 @@ tags:
 ケイパビリティは、何が「一緒に属する」のか、何が他のケイパビリティと区別されるのかという境界を定義することで、エンタープライズをモジュール化に導きます。実現可能なプロセスとアセット （必要なオーガニゼーションやアプリケーションなど）を導き出すことによって、よくデザインされたケイパビリティモデルは、変化に適応できる企業や組織につながります。 ケイパビリティは、サブケイパビリティ（通常はレベル1～3）に分解して階層化することができます。 各ケイパビリティには、その戦略的発展と意図したアウトプットの効果的な創出を確実にするために、明確に割り当てられたビジネス・オーナーがいなければなりません。
 
 ## ケイパビリティ・マップ
-![ケイパビリティ・マップ](/media/Capabilitiy_ja.jpg)
-
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Capabilitiy_ja.jpg?raw=true" width="80%"></br>
 ツリー関係を表します。 ビジネス・ケイパビリティ・マップとも呼ばれます。
 
 ## ケイパビリティの例
@@ -52,4 +51,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

@@ -11,7 +11,7 @@ tags:
 ---
 # 交差 (intersection)
 ふたつのファセットが重なり合う領域は、私たちが交差と呼ぶ独自のレンズ型を形成します。これらの交差は、重なり合うふたつのファセットとそれらに対応する分野がどのように相互作用し、影響を与え合うかに焦点を当てています。交差にあるエンタープライズ要素は、共通の視点をつなぐ橋として機能し、今日の孤立した各分野の概念をつなぎ合わせます：
-<img src="/media/enterprise-design-facets.png" size="50%">
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/enterprise-design-facets.png?raw=true" width="50%">
 
 ## オーガニゼーション
 チームとしてどう組織するか？ どのように協力するのか？
@@ -30,5 +30,5 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 

@@ -20,8 +20,7 @@ tags:
 製品を作るには、製品企画、管理、デザイン、エンジニアリング、そして配備が必要になります。その結果、製品戦略や製品ポートフォリオは、階層的な製品カテゴリーや製品で構成され、さらにそれらは製品のコンポーネントや機能に分解されるのが一般的です。
 
 ## プロダクト・マップ
-![プロダクト・マップ](/media/Product_ja.jpg)
-
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Product_ja.jpg?raw=true" width="100%"></br>
 ツリー関係を表します。 ピロダクト・ポートフォリオ、またはプロダクト・コンポーネント・モデルとも呼ばれます。
 
 ## プロダクトの具体例
@@ -56,4 +55,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

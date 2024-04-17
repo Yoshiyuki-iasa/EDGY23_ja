@@ -18,8 +18,7 @@ tags:
 エンタープライズのパーパスは、それが達成したいことを説明する[コンテンツ](/pages/enterprise_elements_ja/facets_and_intersection_elements_ja/_identity/content_ja.md)として表現できます。
 
 ## パーパス・マップ
-![Purpose Map JA](/media/Purpose_ja.jpg)
-
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Purpose_ja.jpg?raw=true"></br>
 ツリー構造の関係を表します。[ストラテジー](/pages/glossary_ja.md#strategy)マップ、[ゴール](/pages/glossary_ja.md#goal)マップ、ゴール・ポートフォリオとも呼ばれます。
 
 ## パーパスの具体例
@@ -52,4 +51,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

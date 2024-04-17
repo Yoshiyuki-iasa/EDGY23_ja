@@ -22,8 +22,7 @@ tags:
 コンテンツの量と重要性が増すにつれ、エンタープライズは情報システムに支えられた高度なコンテンツ戦略、インベントリー、ライフサイクル管理手法を開発する必要があります。
 
 ## コンテンツマップ
-![コンテンツマップ](/media/Content_ja.jpg)
-
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Content_ja.jpg?raw=true"></br>
 ツリー関係を表します。 コンテンツモデル、またはコンテンツ・インベントリとも呼ばれます。
 
 ## コンテンツの例
@@ -55,4 +54,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

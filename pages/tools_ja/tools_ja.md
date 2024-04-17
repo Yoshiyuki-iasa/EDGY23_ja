@@ -16,9 +16,9 @@ EDGY23は、エンタープライズ・デザイン共創のためのオープ�
 
 ## EDGY23ドキュメンテーション
 EDGY23 Language Foundation 仕様書はPDFでダウンロードするか、A4横長のソフトカバー本としてご注文いただけます。
-<a href="https://shop.intersection.group/products/edgy-23-softcover" target="_blank"><img src="/media/EDGY-Book.png" alt="EDGY Book" width="30%"></a>
+<a href="https://shop.intersection.group/products/edgy-23-softcover" target="_blank"><img src="/media/EDGY-Book.png" alt="EDGY Book" width="30%"></a></br>
 **[PDFバージョンのダウンロード](https://edgydownloads.gr8.com/)**
-**[Read online](https://enterprise.design/wiki/EDGY:Sitemap) [Get the book](https://shop.intersection.group/products/edgy-23-softcover)**
+**[オンラインで読む](https://enterprise.design/wiki/EDGY:Sitemap)** **[書籍を購入](https://shop.intersection.group/products/edgy-23-softcover)**
 
 ## EDGY 23 Stencils
 **EDGY for Miro**
@@ -60,4 +60,4 @@ This mapping allows combining EDGY with ArchiMate®, an open and independent mod
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

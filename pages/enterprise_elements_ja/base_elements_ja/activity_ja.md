@@ -16,7 +16,7 @@ tags:
 アクティビティは私たちのエンタープライズに関連する何かが起こっていることを表現します。例えば、仕事、スポーツ、パフォーマンスなど、人々が個人的または集団的に行うことです。アクティビティは、誰が何をするのかを特定することなく、単に起こることを指す場合にも使われます。イベントやプロセスは、それらのアクターが特定されなくとも、それら自体適切に関係するものとしてエンタープライズ内で数多く展開されています。アクティビティは、エンタープライズの振る舞いや動きを捉えます。これにより私たちはエンタープライズ (とその組織) のダイナミックな性質をモデル化し、マッピングできます。
 
 ## アクティビティ・マップ
-![Activity Map](/media/EDGY-Activity-Map.png)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Activity-Map.png?raw=true" width="80%"></br>
 フローの関係を表しています。アクティビティ・モデル、プロジェクト・プラン、ロードマップとも呼ばれます。
 
 ## アクティビティ要素の具体例
@@ -49,4 +49,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

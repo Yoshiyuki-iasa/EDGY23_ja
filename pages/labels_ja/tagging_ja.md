@@ -14,8 +14,7 @@ tags:
 タグは、複数の要素に適用される特徴を捉えます。タグは要素の種類を区別したり、優先順位を設定したり、特定の処理が必要な要素を強調したりするのに役立つ情報を追加します。ひとつの要素に複数のタグを付けることができます。
 
 ## タグ付けの例
-![EDGYタグ](/media/EDGY-Tags.png)
-
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Tags.png?raw=true" width="100%" alt="EDGYタグ">
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

@@ -14,7 +14,7 @@ tags:
 
 各ファセットは5つのエンタープライズ・エレメントのセットを参照します：3つのファセット要素、隣接するファセットの重なりにある2つのインターセクション (交差) 要素です。これら5つの要素とその関係は、特定のファセットの質問に答え、ファセット間の相互作用を探求できるようにデザインされています。
 
-<img src="/media/enterprise-design-facets.png" size="50%">
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/enterprise-design-facets.png?raw=true" width="50%">
 
 3つのファセットとは
 
@@ -74,5 +74,5 @@ Artwork credits: Colorem — a generative artwork by Fabio Catapano illustrating
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 

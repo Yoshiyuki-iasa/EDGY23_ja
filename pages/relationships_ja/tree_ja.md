@@ -12,12 +12,10 @@ tags:
 # ツリー
 **ある要素は、同じ型の別の要素の一部である。**
 
-A tree represents a hierarchical whole/part relationship between elements of the same type. Hierarchical relationships are based on degrees or levels of superordination and subordination, where the superordinate element represents a whole and subordinate elements represent its members or parts.
-
 ツリーは、同じタイプの要素間の階層的な全体と部分の関係を表します。階層関係は、上位と下位の程度やレベルに基づくもので、上位の要素は全体を表し、下位の要素はそのメンバーや部分を表します。
 
 ## 表記
-![EDGYツリー関係 / 階層マップ](/media/EDGY-Tree-Relationship.png)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Tree-Relationship.png?raw=true" width="100%" alt="EDGYツリー関係 / 階層マップ">
 
 ## ツリーの例
 - 組織は、部門、チーム、役割のツリーとして構成される。
@@ -32,4 +30,4 @@ A tree represents a hierarchical whole/part relationship between elements of the
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

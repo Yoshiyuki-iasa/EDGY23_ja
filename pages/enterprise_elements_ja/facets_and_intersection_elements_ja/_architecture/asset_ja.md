@@ -16,8 +16,7 @@ tags:
 エンタープライズは、事業運営に必要なケイパビリティを発揮するために、広範な有形または無形のアセット（建物、機械、原材料、ソフトウェア・アプリケーション、金融資産、ノウハウなど）を開発、購入、管理する必要があります。概念としてのアセットは、経済学、戦略的経営、財務に根ざしています。サプライヤーからアセットを購入することは、エンタープライズをサプライ・チェーンと結びつけます。
 
 ## アセット・マップ
-
-![アセット・マップ](/media/Assets_ja.jpg)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Assets_ja.jpg?raw=true" width="100%"></br>
 リンク関係を表します。 アプリケーションアーキテクチャとも呼ばれます。
 
 ## アセットの例
@@ -48,4 +47,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

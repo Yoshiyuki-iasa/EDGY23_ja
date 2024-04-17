@@ -12,7 +12,7 @@ tags:
 # ファセットおよびインターセクション要素
 ファセットはエンタープライズに対する3つの基本的な視点を提供します。それぞれのファセットは5つのエンタープライズ要素を参照しています: 3つのファセット要素と隣接するファセットの重なり (インターセクション) 上の2つのインターセクション要素です。すべての要素はベース要素という共通の集合から導出されます。
 
-![facets and intersection elements](/media/Enterprise-Design-Facet-Intersection-Elements.png)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Enterprise-Design-Facet-Intersection-Elements.png?raw=true" width="80%">
 
 ## アイデンティティ・ファセット
 私たちのエンタープライズは、コンテンツを通じて伝達されるストーリーを共有し、与えられたパーパスを達成します。このアイデンティティは組織によって追求され、ブランドの知覚によって喚起されます。
@@ -50,4 +50,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

@@ -11,7 +11,7 @@ tags:
 ---
 # エンタープライズ・エレメント
 EDGYには、デザインの課題 / 分野を超えて普遍的に使用できる、わずか4つのエレメントからなるシンプルだが豊かで表現力のある視覚言語が含まれています。この言語がシンプルであることは、関係するすべての分野がこれらのエレメントを使用し、デザインをつなげる上で重要です。 エレメントによって、エンタープライズが何から構成されているのか、そしてそれらの相互関係や相互作用を探ることによって、それらがどのように全体を形成しているのかを記述することができます。 私たちは、エンタープライズの重要な部分を記述し、エンタープライズへの変更と新しい構成をデザインするためにそれらを使用することで、潜在的な未来を伝え、変革を可能にします 
-![Enterprise Elements](/media/EDGY-Enterprise-Elements.png)
+![Enterprise Elements](https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Enterprise-Elements.png?raw=true)
 
 ## [ベース要素](base_elements_ja/base_elements_ja.md)
 エンタープライズとそのエコシステムで起こっていることを説明する4つの一般的要素。
@@ -72,4 +72,4 @@ PNG形式のサンプルは、オンライン・ダイアグラムエディタ�
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

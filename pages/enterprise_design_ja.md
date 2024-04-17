@@ -13,7 +13,7 @@ tags:
 ## エンタープライズ・デザインとは何か？
 エンタープライズとは、人間が構築したものであり、当然デザインされたものでもあります。 それは志を共有する人々によって構成され、実現されます。エンタープライズの創造には、専門家による多くのデザイン上の決断、つまりエンタープライズやそのさまざまな要素のさまざまな側面を組み合わせ、バランスをとることが必要です。
 
-<img src="/media/enterprise-design-facets.png" width="50%">
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/enterprise-design-facets.png?raw=true" width="50%">
 
 _エンタープライズ・デザイン・ファセット：あらゆるエンタープライズに関連する3つの基本的な視点_
 
@@ -21,7 +21,7 @@ _エンタープライズ・デザイン・ファセット：あらゆるエン�
 
 孤立した視点による偏見や限られた視野を克服し、それらの交わりを見つめることで、私たちはその根本的な目的を達成するために、規律正しく、構造化され、全体的な方法でエンタープライズを共同デザインすることができます。
 
-<img src="/media/Enterprise-Base-Elements.png" width="50%">
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Enterprise-Base-Elements.png?raw=true" width="50%">
 
 _エンタープライズ要素： 4つの要素のみからなるシンプルな言語で、デザインの課題/分野を超えて普遍的に使用できます_
 
@@ -48,5 +48,5 @@ EDGY仕様では、エンタープライズ・デザインの対象となるエ�
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 

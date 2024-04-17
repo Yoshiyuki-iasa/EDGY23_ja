@@ -18,8 +18,7 @@ tags:
 エンタープライズ・デザインの目的を果たすには、あらゆるオブジェクトが工学的にデザインされ、予測通りに(再) 生産できるわけではない、ということへの理解が重要になります。設備やソフトウェア・アプリケーションのように、複雑かつ決定論的で、正確な仕様をデザインできるものもあります。しかし植物や社会構造のようなオブジェクトは、それらの形や機能の多くがそれら同士や周囲の環境との相互作用を通して現れる、複雑で予測不可能なものであることから、それらに与えうる影響は限定的です。
 
 ## オブジェクト・マップ
-<img src="/media/EDGY-Object-Map-Domain-Data-Model.png" size="50%">
-
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Object-Map-Domain-Data-Model.png?raw=true" width="190%"></br>
 リンク関係を表しています。オブジェクトモデル、ER図、ドメインモデル、データモデルとも呼ばれます。
 
 ## オブジェクト要素の具体例
@@ -54,4 +53,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

@@ -17,7 +17,7 @@ tags:
 ## コア・リンク
 EDGYは、あらかじめ定義された24種類のリンクを含む、豊かで表現力のある語彙を提供します。これらのリンクを使用し、異なる分野の共同デザイナーが、それぞれの専門分野に特化したデザインをよりよく伝え、つなげることができます。
 
-![コア・リンク](/media/EDGY-Enterprise-Elements-Core-Links.png)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Enterprise-Elements-Core-Links.png?raw=true" width="50%" alt="コア・リンク">
 
 ## ファセット・コア・リンク
 **アイデンティティ**
@@ -63,18 +63,16 @@ EDGYは、あらかじめ定義された24種類のリンクを含む、豊か�
 - ブランドはジャーニーに登場する
 
 ## 要素とコア・リンクのマッピング
-![EDGY コア・リンクトのマッピング (例)](/media/EDGY-Core-Links-Example.png)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Core-Links-Example.png?raw=true" width="100%" alt="EDGY コア・リンクトのマッピング">
 
 ## ショートカット
-In addition to the pre-defined core links, EDGY allows designers to bypass this model by defining custom links between elements. 
-
 定義済みのコア・リンクに加え、EDGYでは要素間のカスタムリンクを定義することで、このモデルをバイパスすることができます。これは、いくつかのコアリンクに分解できるショートカットを作成します。
 
-![EDGY要素: ショートカット・リンク](/media/EDGY-Elements-Links-Shortcuts.png)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Elements-Links-Shortcuts.png?raw=true" width="100%" alt="EDGY要素: ショートカット・リンク">
 
 **用法**
 ショートカットを使用することで、モデルをさらに充実させ、特定のデザイン課題に合わせて言語を調整できます。しかし、カスタム・リンクを増やせば増やすほど、デザインを他の分野に伝え、つなげることが難しくなることを、デザイナーは認識する必要があります。
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

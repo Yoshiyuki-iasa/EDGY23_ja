@@ -14,7 +14,7 @@ tags:
 エンタープライズは、各部分が互いに影響し合い、単一の部分だけでは生み出せない総合的な結果を生み出すことによって機能します。企業やその構成要素の中を物事が流れる有効性と容易性を理解し改善することは、エンタープライズが効率的かつ効果的に機能するのに役立ちます。
 
 ## 表記
-![EDGYフロー関係の例](/media/EDGY-Flow-Relationship.png)
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Flow-Relationship.png?raw=true" width="100%" alt="EDGYフロー関係の例">
 
 ## フローの例
 - 組織単位やチームは、タスクの遂行において他のチームからの情報に依存する。
@@ -32,4 +32,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

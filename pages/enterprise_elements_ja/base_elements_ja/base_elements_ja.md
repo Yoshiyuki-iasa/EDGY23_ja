@@ -14,7 +14,7 @@ tags:
 
 _**人々**は**アクティビティ**を行い、**オブジェクト**を使用・創造し、**アウトカム**を達成します。_
 
-<img src="/media/Enterprise-Base-Elements.png" size="50%">
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Enterprise-Base-Elements.png?raw=true" width="50%">
 
 エンタープライズやその周辺で起きていることは、すべてこれらのベース要素だけで記述できます。これらはファセットとインターセクション要素とを支える共有語彙です。
 
@@ -28,4 +28,4 @@ _**人々**は**アクティビティ**を行い、**オブジェクト**を使�
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-[![CC logo](/media/cc.png)](/pages/license_ja.md)
+</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
