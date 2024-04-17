@@ -31,7 +31,7 @@ Miroverseのこのテンプレートを使って、EDGYステンシルやマッ�
 ## 「diagrams.net」および「Confluence」用のEDGY
 無料のダイアグラム作成ソフトウェア「drawio.com」を使用して EDGYマップを描けます。Confluence用のdiagrams.netアプリを使って、EDGY要素を保存するリポジトリとしてAtlassian ConfluenceからEDGYマップにリンクすることもできます。Intersection Railwaysのサンプルマップを出発点として、独自のEDGYマップを描いてください。PNGファイルをダウンロードし、drawio.comで開いて編集してください。
 
-
+<br><a href="">
 
 
 ![EDGY Stencils for diagrams EDGY Example maps for diagrams.net]
