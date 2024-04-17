@@ -16,7 +16,7 @@ tags:
 アウトカムはアクティビティの結果です。これは目標や目的など意図された結果、より一般的にはエンタープライズがパーパスを達成しようと努力した結果であり得ます。また予期せぬ出来事が生じた結果初めてわかるような、意図しないアウトカムもあり得ます。アウトカムとは私たちの活動の直接的な成果であることも、私たちの直接的な支配や影響力の及ばない、一連のアウトカムの連鎖の影響であることもあります。このように、どのようなアウトカムも、組織、顧客や共同制作者、市場やエコシステムにおいて観察できる状態の変化です。アウトカムは、エンタープライズ内部またはその周辺の状態変化を表し、事前に追い求められるもの、または観察可能となった事後に測定されるものです。このような変化は、イエスかノーか、有る無し、良し悪し、多い少ない、あるいは数量などの変数として表現すことができます。
 
 ## アウトカム・マップ
-<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Outcome-Map.png?raw=true" width="80%"></br>
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-Outcome-Map.png?raw=true" width="80%"><br>
 フローの関係を表しています。 因果ループ図とも呼ばれています。
 
 ## アウトカム要素の具体例
@@ -48,4 +48,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

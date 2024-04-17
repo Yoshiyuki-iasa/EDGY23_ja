@@ -16,7 +16,7 @@ tags:
 チャネルとは、人々とエンタープライズとの間のコミュニケーション手段です。 人々と企業との交流が生じる時間です。メディア、デバイス、通信システム、あるいはインタラクションを促進するための物理的環境も含まれます。
 
 ## チャネルマップ
-<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Channel_ja.jpg?raw=true" width="100%"></br>
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Channel_ja.jpg?raw=true" width="100%"><br>
 タグ付けによる分類を表現します。タッチポイント・マップとも呼ばれます。
 
 ## チャネルの具体例
@@ -46,4 +46,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

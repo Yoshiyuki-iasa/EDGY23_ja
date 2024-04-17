@@ -29,4 +29,4 @@ EDGYには、各要素のラベルとして、特定のデザイン課題にお�
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

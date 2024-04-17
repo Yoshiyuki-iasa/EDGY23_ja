@@ -18,7 +18,7 @@ tags:
 オーガニゼーションは複雑な適応システムです。つまりオーガニゼーションは、デザインされ管理される属性や行動と、人々の複雑な行動から多かれ少なかれ無計画に生じる創発的な属性や行動を示します。この創発性は、オーガニゼーションが完全に予測可能で決定論的なものでは決してないことを意味し、オーガニゼーション・デザインを常にデザインと影響のミックスにしています。オーガニゼーション・デザインに最も適した側面は、オーガニゼーション構造、役割、責任、正式な協力体制、意思決定プロセスです。デザインがはるかに難しい、あるいは不可能な側面としては、組織文化、不測の事態への対応力、適応性、回復力、頑健性などがあります。
 
 ## オーガニゼーション・マップ
-<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Organisation_ja.jpg?raw=true"></br>
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Organisation_ja.jpg?raw=true"><br>
 ツリー関係を表します。 組織図またはオーが二グラムとしても知られています。
 
 ## オーガニゼーションの例
@@ -53,4 +53,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

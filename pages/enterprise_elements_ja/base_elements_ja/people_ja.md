@@ -18,7 +18,7 @@ tags:
 人間の弱みは予測不可能なこと、人間の強みは、特に予期せぬ状況における回復力です。自動化されたシステムは障害発生すればそれまでですが、人間はこれらの特性によって、破壊的な状況から優雅に回復し、失敗から学び、エンタープライズに新たな価値をもたらすことができます。
 
 ## ピープルマップ
-<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-People-Map-Stakeholder-Map.png?raw=true" width="80%"></br>
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-People-Map-Stakeholder-Map.png?raw=true" width="80%"><br>
 タグ付けによる分類を表しています。ステークホルダー・マップ、またはエコシステム・マップとも呼ばれます。
 
 ## ピープル要素の具体例
@@ -52,4 +52,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

@@ -19,7 +19,7 @@ tags:
 
 ## ストーリー・マップ
 
-<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Story_ja.jpg?raw=true"></br>
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Story_ja.jpg?raw=true"><br>
 ツリーとフローの関係を示します。ストーリーボードとも呼ばれます。
 
 ## ストーリーの例
@@ -50,4 +50,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

@@ -16,7 +16,7 @@ tags:
 ジャーニーは、人々が生活の特定の部分、特に私たちのエンタープライズとの関わりにおいて、時間をかけたり、感じたり、考えたり、経験したりする何かを表します。それは人々が経験する活動や出来事、そして達成したいタスクを、簡略化された連続的かつ時系列的な表現として捉えます。ジャーニーは一般的に、人物の類型やペルソナの人生の一片を描写するストーリーテリング形式で記録されます。ジャーニーは一般的にモチベーション、アクティビティ、タスク、インタラクションのチャネル、物理的またはデジタルな環境、感情的な状態、直接の観察、ジャーニーに関連する分析データなどとして描写されます。
 
 ## ジャーニー・マップ
-<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Journey_ja.jpg?raw=true" width="100%"></br>
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/Journey_ja.jpg?raw=true" width="100%"><br>
 フロー関係を表します。カスタマー・ジャーニー・マップ、ユーザー・ジャーニー・マップとも呼ばれます。
 
 ## ジャーニーの具体例
@@ -48,4 +48,4 @@ tags:
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-</br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
