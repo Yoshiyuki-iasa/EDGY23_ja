@@ -34,6 +34,6 @@ EDGYでは3種類のリレーションが定義され、それらを用いて2�
 この3つの関係はすべて線や矢印として視覚的に表現できますが、近接、包含、インデント、グリッド上の整列などの暗黙的な表現も可能です。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
-<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./pages/license_ja.md)の下で利用可能です。
+<br><a href="./pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 

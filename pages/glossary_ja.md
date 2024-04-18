@@ -251,5 +251,5 @@ The quality of being useful or important. A belief about what is right and wrong
 想像の中にある企業のアイデアやイメージ。[2]EDGYでは、エンタープライズ・ビジョンとは、理想化された、通常は将来のエンタープライズの姿を描いたものであり、ストーリーとしてとらえられ、コンテンツとして伝達される。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
-<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./pages/license_ja.md)の下で利用可能です。
+<br><a href="./pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

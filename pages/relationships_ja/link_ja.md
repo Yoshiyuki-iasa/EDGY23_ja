@@ -74,5 +74,5 @@ EDGYは、あらかじめ定義された24種類のリンクを含む、豊か�
 ショートカットを使用することで、モデルをさらに充実させ、特定のデザイン課題に合わせて言語を調整できます。しかし、カスタム・リンクを増やせば増やすほど、デザインを他の分野に伝え、つなげることが難しくなることを、デザイナーは認識する必要があります。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
-<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./pages/license_ja.md)の下で利用可能です。
+<br><a href="./pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

@@ -81,5 +81,5 @@ _カスタム・マッピングの例_
 あなたの仕事やツールで、EDGYからArchiMate™へのマッピングの使用を検討しているときは、私たちのコミュニティに参加して仲間と交流し、そのさらなる発展に関わってください。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
-<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./pages/license_ja.md)の下で利用可能です。
+<br><a href="./pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

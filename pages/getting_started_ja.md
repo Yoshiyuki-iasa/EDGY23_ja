@@ -59,6 +59,6 @@ EDGYをまだ使い始めたばかりの間は、非常に複雑でミッショ�
 最後に、学ぶこと、練習することを止めないことです。常に新たな発見と応用があります。 あなたの理解と経験が深まるにつれて、あなたが直面しているデザインの課題にEDGYを適用する方法も増えてゆくでしょう。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
-<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./pages/license_ja.md)の下で利用可能です。
+<br><a href="./pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 
