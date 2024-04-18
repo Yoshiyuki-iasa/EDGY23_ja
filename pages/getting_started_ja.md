@@ -19,7 +19,7 @@ tags:
 
 基礎を一通り学んだら、以下の仕様書全文を読むことから始めましょう：
 - [**エンタープライズ・デザイン・ファセット**](enterprise_design_facets_ja/enterprise_design_facets_ja.md)
-- [**エンタープライズ・エレメント**](enterprise_elements_ja/enterprise_elements_ja.md)
+- [**エンタープライズ・エレメント**](./enterprise_elements_ja/eneterprise_elements_ja.md)
 
 じっくりと時間をかけて情報を吸収することをお勧めします。セクションとセクションの間に十分な休憩を取り、読んだ内容を振り返って頭に染み込ませる時間を作るのがベストでしょう。EDGYが何を含み、どのように組み合わされているかを理解するために、少なくとも一度は仕様書を読むことは理にかなっていますが、これらのセクションは、実際にエンタープライズ・デザインのコンテキストでEDGYを使用する際に参照する資料として最適です。
 
@@ -41,7 +41,7 @@ EDGY23は、私たちが作成したツールや、他の人が作成したツ�
 
 今後さらに多くのツールが提供される予定ですので、ぜひダウンロードして試してみてください。
 
-[**EDGYツールを入手する**](/pages/tools_ja/tools_ja.md)
+[**EDGYツールを入手する**](./tools_ja/tools_ja.md)
 
 ## コミュニティに参加する
 Intersection Groupは、EDGYの開発者であるだけでなく、エンタープライズ・デザイン分野の発展に関心を持つ人々の活気あるコミュニティでもあります。 メーリングリストやSlackチャンネル (intersection.group/about/join) に参加することで、最先端の議論、他の人が共有し探求している経験、EDGYやEDGYツールの初期バージョン、ウェビナー、セミナー、出版物に関する情報などを得ることができます。また、EDGYの言語とツールの積極的なコ・クリエーターも募集しています。メンバーとして、あなた自身の洞察や経験を会話に加えることができます。レビューに参加し、自分の作例を投稿し、質問し、機能や修正を提案することができます。真の共創の精神で、あなたもこのエキサイティングな分野に貢献できるのです。
@@ -59,6 +59,6 @@ EDGYをまだ使い始めたばかりの間は、非常に複雑でミッショ�
 最後に、学ぶこと、練習することを止めないことです。常に新たな発見と応用があります。 あなたの理解と経験が深まるにつれて、あなたが直面しているデザインの課題にEDGYを適用する方法も増えてゆくでしょう。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
+<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 

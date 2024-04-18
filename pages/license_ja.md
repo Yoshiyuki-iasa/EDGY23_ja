@@ -9,18 +9,18 @@ summary:
 tags: 
   - 
 ---
-# License
-This work is published under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+# ライセンス
+この著作は[Creative Commons 表示 - 継承 4.0 国際 (CC BY-SA 4.0)ライセンス](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)の下で公開されています。
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format.
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+あなたは以下の条件に従う限り、自由に：
+- **共有** — どのようなメディアやフォーマットでも資料を複製したり、再配布できます。営利目的も含め、どのような目的でも。
+- **翻案** — マテリアルをリミックスしたり、改変したり、別の作品のベースにしたりできます。営利目的も含め、どのような目的でも。
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Intersection Group endorses you or your use.
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+あなたの従うべき条件は以下の通りです。
+- **表示** — あなたは適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があったらその旨を示さなければなりません。これらは合理的であればどのような方法で行っても構いませんが、許諾者があなたやあなたの利用行為を支持していると示唆するような方法は除きます。
+- **継承** — もしあなたがこの資料をリミックスしたり、改変したり、加工した場合には、あなたはあなたの貢献部分を元の作品と同じライセンスの下に頒布しなければなりません。
 
-The greatest care has been taken in compiling this book. However, no responsibility can be accepted by the publishers or compilers for the accuracy of the information presented. If you find any mistakes, please message us at the address below.
+本書の編集には細心の注意が払われています。しかし、掲載された情報の正確さについて、出版社や編集者は一切の責任を負いかねます。間違いを発見された場合は、下記のアドレスまでご連絡ください。
 
 Edition EDGY 23 — Language Foundations
 
@@ -43,4 +43,5 @@ Thank you to our reviewers and contributors: Andre Vidigal, Annika Klyver, Anton
 enterprise.design is running MediaWiki, the software behind Wikipedia.
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
+<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

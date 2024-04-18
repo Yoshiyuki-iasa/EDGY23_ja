@@ -9,239 +9,247 @@ summary:
 tags: 
   - 
 ---
-# Glossary
+# 用語集
 
-## Action
-An activity performed by employees or other people.
+## アクション (Action)
+従業員などが行う活動。
 
-## Application
-A piece of software supporting activities via user or data interfaces.
+## アプリケーション (Application)
+ユーザー・インターフェースまたはデータ・インターフェースを介して活動を支援するソフトウェアの一部。
 
-## Brand perception
-A metric evaluating how a brand is perceived by people on the market it addresses.
+## ブランド認知 (Brand perception)
+あるブランドが、その市場の人々にどのように受け止められているかを評価する指標。
 
-## Brand valuation
-A metric estimating the total financial value of a brand.
+## ブランド評価 (Brand valuation)
+ブランドの総金融価値を推定する指標。
 
-## Business
-An economically or organisationally separate area of our enterprise activity.
+## ビジネス (Business)
+企業活動の経済的または組織的に独立した領域。
 
-Examples: legal entities such as public institution, company, association, NGO, or their subdivisions for specific product areas or geographic regions.
+例：公的機関、企業、団体、NGOなどの法人、または特定の製品分野や地域を対象とするそれらの下部組織。
 
-## Business cycle
-A high-level overview of a sequence of activities we are doing again and again as a business, e.g. from making/sourcing to delivering/learning.
+## ビジネスサイクル (Business cycle)
+私たちがビジネスとして繰り返し行っている一連の活動 (例えば、製造／調達から配達／学習まで) をハイレベルで概観したもの。
 
-## Business function
-An activity or group of activities carried out by an organisational unit that occurs regularly and realises a capability of the enterprise.
+## ビジネス・ファンクション (Business function)
+定期的に発生し、企業の能力を実現する、ある組織単位で実施される活動またはその集まり。
 
-## Business model
+## ビジネス・モデル (Business model
 A model of how an organisation creates, delivers and captures value.[3]
+組織がどのように価値を創造し、提供し、獲得するかのモデル[3]。
 
-## Business object
-A business object represents a concept used within a particular business domain [1].
 
-## Business objects are modelled in EDGY as objects.
+## ビジネス・オブジェクト (Business object)
+ビジネス・オブジェクトは、特定のビジネス・ドメイン内で使用される概念を表す[1]。
 
-## Business unit
-Synonym for organisational unit.
+ビジネス・オブジェクトは、EDGYではオブジェクトとしてモデル化されている。
 
-## Co-creator
+## ビジネスユニット (Business unit)
+[組織単位](#組織単位-organisational-unit)と同義。
+
+## コ・クリエーター (Co-creator)
 A person that participates in the collaborative enterprise design process. Examples: employee, customer, partner, regulator, investor.
 
-## Constraint
-A constraint represents a factor that limits the realisation of goals [1].
+エンタープライズ・デザインの共同プロセスに参加する人。例：従業員、顧客、パートナー、規制当局、投資家。
 
-## Creation
-Something people co-create during the enterprise design process. Examples: sketch, board, story, principle, dashboard, prototype.
+## 制約 (Constraint)
+制約とは、目標の実現を制限する要因を表す[1]。
 
-## Customer
-A person or a legal entitity that buys products from an enterprise.
+## クリエーション (Creation)
+企業のデザインプロセスにおいて、人々が共同で創造するもの。例：スケッチ、ボード、ストーリー、原則、ダッシュボード、プロトタイプ。
 
-## Customer segment
-A group of customers that an enterprise is aiming to sell its products to.
+## 顧客 (Customer)
+エンタープライズから製品を購入する個人または法人。
 
-## Data
-Facts or information, especially when examined and used to find out things or to make decisions. [2]
+## 顧客セグメント (Customer segment)
+エンタープライズが自社製品の販売を目指す顧客のあつまり。
 
-Examples: physical properties of a locomotive, geolocation of our tracks, current speed of a train.
+## データ (Data)
+事実または情報。特に、物事を調べるため、または意思決定のために調査・使用するもの。[2]
 
-## Driver
-A driver represents an external or internal condition that motivates an enterprise to define its goals and implement the changes necessary to achieve them. [2]
+例：機関車の物理的特性、線路の地理的位置、列車の現在速度。
 
-## Ecosystem
-An economic community supported by a foundation of interacting organisations and individuals—the organisms of the business world. The economic community produces goods and services of value to customers, who are themselves members of the ecosystem. The member organisms include suppliers, lead producers, competitors, and other stakeholders.
+## ドライバー (Driver)
+ドライバーとは、エンタープライズが目標を定め、その達成に必要な変化を実施する動機となる外部または内部の状態を表す。[2]
 
-James F. Moore "Predators and Prey: A New Ecology of Competition"
+## エコシステム (Ecosystem)
+相互作用する組織や個人の基盤によって支えられている経済共同体 -- ビジネスの世界における有機体。経済共同体は、生態系の構成員である顧客に対して、価値のある商品やサービスを生産する。有機体の構成には、サプライヤー、主要生産者、競合他社、その他の利害関係者が含まれる。
+
+HBR Classics 「ビジネスエコシステムの4つの発展段階 競争の生態学」DIAMONDハーバード・ビジネス・レビュー 2022年9月号 pp.122〜138
+(James F. Moore "Predators and Prey: A New Ecology of Competition")
 
 ## EDGY
-An Open Source tool for co-creating better enterprises. EDGY stands for Enterprise Design Graph interplaY (see references to learn more).
+より良いエンタープライズを共創するためのオープンソースツール。EDGYとは、Enterprise Design Graph interplaYの略 (詳細は[参考文献](references_ja.md)を参照)。
 
-## Employee
-A person who is paid to work for somebody. [2]
+## 従業員 (Employee)
+誰かのために働くことで報酬を得る人。[2]
 
-## Enterprise
-See What is an enterprise?
+## エンタープライズ (Enterprise)
+「[エンタープライズとは何か?](enterprise_design_ja.md#エンタープライズとは何か)」を参照
 
-## Enterprise design
-See What is Enterprise Design?
+## エンタープライズ・デザイン (Enterprise design)
+「[エンタープライズ・デザインとは何か?](enterprise_design_ja.md#エンタープライズ・デザインとは何か)」を参照
 
-## Event
-Events are activities by unspecified agents that happen inside or around the enterprise that trigger people's activities in response.
+## イベント (Event)
+イベントとは、エンタープライズの内部や周辺で起こる不特定多数のエージェントによる活動のことで、それに反応して人々の活動が引き起こされる。
 
-## Externality
-An outcome (cost or benefit) that affects an uninvolved third party and arises as an effect of an enterprise's activity.
+## 外部性 (Externality)
+エンタープライズの活動の結果として生じる、無関係な第三者に影響を及ぼす結果 (コストまたは便益)。
 
-## Goal
-An intended outcome that is aligned with the identity and strategy of the enterprise.
+## ゴール (Goal)
+エンタープライズのアイデンティティと戦略に沿った、意図された成果。
 
-## Impact
-Outcomes in our ecosystem that we only partially influence or control.
+## インパクト (Impact)
+私たちのエコシステムにおいて、私たちの影響やコントロールが部分的なものに限られる帰結。
 
-## Information
-Facts or details about somebody/something. [2]
+## 情報 (Information)
+誰か・何かについての事実や詳細。[2]
 
-In EDGY information is modelled using the element object tagged as data.
+EDGYでは、情報はデータとしてタグ付けされたオブジェクト要素によってモデル化される。
 
-## Initiative
-A plan for dealing with a particular problem or for achieving a particular purpose. [2]
+## イニシアチブ (Initiative)
+特定の問題に対処するため、または特定の目的を達成するための計画。[2]
 
-## Interface
-Where two elements meet and interact, enabling flow passing data or other objects.
+## インターフェース (Interface)
+データや他のオブジェクトの受け渡しが可能となる、ふたつの要素が出会い相互作用するところ。
 
-Example: data interface between applications, user interface communicating information to people.
+例：アプリケーション間のデータインターフェース、人々に情報を伝えるユーザーインターフェース。
 
-## Investment
-Allocated money or other resources (time, energy, effort) in the expectation of an outcome (some benefit/return) in the future. [3]
+## 投資 (Investment)
+将来の結果 (何らかの利益・リターン) を期待し、金銭やその他の資源 (時間、エネルギー、労力) を割り当てること。[3]
 
-## Investor
-A person or an enterprise that invests money or other valuable resources in another enterprise.
+## 投資家 (Investor)
+他の企業に資金やその他の貴重な資源を投資する個人または企業。
 
-## Journey (funnel)
-A journey that guides people towards completing a transaction, such as buying a product.
+## ジャーニー (ファンネル) (Journey (funnel))
+商品の購入など、取引を完了するために人々を導く旅程。
 
-## Journey (lifecycle)
-A journey experienced by people over a long period of time with a set beginning and end, going through a set of changes or stages.
+## ジャーニー (ライフサイクル) (Journey (lifecycle))
+始まりと終わりが決まっていて、一連の変化や段階を経て、人々が長い期間をかけて経験する旅程のこと。
 
-Example: a career at a company from getting hired to leaving.
+例：入社から退社までの会社でのキャリア。
 
-## Journey (task related)
-A journey breaking down the activity people do when completing a task into a set of stages or phases.
+## ジャーニー (タスク関連) (Journey (task related))
+人々がタスクを完了する際に行う活動を、一連の段階やフェーズに分解した旅程のこと。
 
-## Journey (transaction)
-A journey describing the phases or stages people go through when completing a transaction.
+## ジャーニー (取引) (Journey (transaction))
+人々が取引を完了するまでに通過する段階やステージを表す旅程。
 
-Example: going through the check-out process in an online store.
+例：オンラインストアでチェックアウトの手続きをする。
 
-## Management
-The activity of running and controlling a business by dealing with or controlling objects or people. [2]
+## マネジメント (Management)
+物や人を扱ったりコントロールしたりすることで、事業を運営・管理する活動。[2]
 
-## Map
-A diagram to show the positions of things over an area. [2]
+## マップ (Map)
+ある領域における物の位置を示す図。[2]
 
-In enterprise design, maps are used to represent the relationships between enterprise elements as part of a structured model, with a clarity suggestive of a geographical map.
+エンタープライズ・デザインでは、マップは構造化されたモデルの一部として、エンタープライズ要素間の関係を地理的な地図のような明瞭さで表現するために使用される。
 
-## Media
-The physical form in which information is communicated to people or stored as data for future use.
+## メディア (Media)
+情報を人に伝えたり、将来の使用のためにデータとして保存したりする物理的な形態。
 
-Examples: software, print, screen, audio.
+例：ソフトウェア、印刷物、スクリーン、オーディオ。
 
-## Metric
-A quantifiable means of evaluating an outcome.
+## メトリクス (Metric)
+結果を定量的に評価する手段。
 
-## Mission statement
-A mission statement is content that describes the purpose of the enterprise. It positions the enterprise, implicitly or explicitly, in one or more industries or sectors and specifies what it aims to do within these industries.
+## ミッション・ステートメント (Mission statement)
+ミッション・ステートメントとは、企業の目的を説明するコンテンツである。暗黙的または明示的に、企業をひとつまたは複数の業界やセクターに位置づけ、これらの業界内で何を目指すかを明記する。
 
-## Model
-An informative representation of an object, person or system.[3]
+## モデル (Model)
+対象物、人、システムに関する有益な表現[3]。
 
-In EDGY enterprise elements and relationships are used to create a model of (parts of) enterprises.
+EDGYでは、エンタープライズの要素と関係がエンタープライズ (の一部) のモデル作成に用いられる。
 
-## Object (deterministic)
-An object that is simple or complicated and can be engineered to exact specifications such as a machine or an application.
+## オブジェクト (決定論的) (Object (deterministic))
+機械やアプリケーションなど、単純または複雑で、正確な仕様をデザインできる対象。
 
-## Object (emergent)
-An object that is complex and unpredictable and may be influenced to a certain degree only, because much of its form and function emerges from its interactions with other objects and its environment (like plants or social structures).
+## オブジェクト (創発的) (Object (emergent))
+その形や機能の多くが他の物体や環境 (植物や社会構造など) との相互作用から生じ、人為が与えうる影響も限定され得る、複雑で予測不可能な対象。
 
-## Objective
-A measurable, quantified goal with an associated timeframe.
+## 目標 (Objective)
+時間枠と関連付けられた、測定可能で定量化された目標。
 
-## Organisational unit
-A group of people working together to realise capabilities (e.g. teams, departments, committees, project teams)
+## 組織単位 (Organisational unit)
+あるケイパビリティを実現するために協働する人々の集団 (チーム、部門、委員会、プロジェクトチームなど)
 
-All organisational units together form the organisation of the enterprise.
+すべての組織単位が一体となって、エンタープライズの組織を形成する。
 
-## Output
-An object that a person, a machine or an organisation produces. This can be a product or an intermediary output and lead to intended or unintended outcomes (depending on the context and way of usage).
+## アウトプット (Output)
+人、機械、組織が生産するもの。これは製品であることもあれば、中間的なアウトプットであることもあり、意図した結果につながることもあれば、意図しない結果につながることもある (文脈や使われ方によって異なる)。
 
-## Partner
-A person or an enterprise that has an agreement with another enterprise. [2]
+## パートナー (Partner)
+他のエンタープライズと協定を結んでいる個人または組織。[2]
 
-## Persona
-A fictional character created to represent a type of people that might all engage with a brand or use a product in a similar way.
+## ペルソナ (Persona)
+あるブランドと関わりを持ったり、同じような方法で製品を使ったりする人々のタイプを表すために作られた架空の人格。
 
-## Project
-Synonym for initiative.
+## プロジェクト (Project)
+[イニシアチブ](#イニシアチブ-initiative)と同義。
 
-## Regulator
-An enterprise that officially controls an area of business or industry to ensure that businesses within its scope of control are operating fairly.
+## 規制当局 (Regulator)
+事業や産業のある分野を公式に管理し、その管理範囲内の事業が公正に運営されていることを保証する組織。
 
-## Resource
-Synonym for asset.
+## リソース (Resource)
+アセットと同義。
 
-## Role
-The function or position that somebody has in an enterprise. [2]
+## ロール (Role)
+エンタープライズにおいて誰かが持つ機能または地位。[2]
 
-## Service
-A service is an activity that adds a benefit to people. Services are modelled using the enterprise element product, combined with the elements process and journey to model production and consumption over time.
+## サービス (Service)
+サービスとは、人々に便益を付加する活動である。サービスは、エンタープライズ要素のプロダクトと、時間の経過に伴う生産と消費をモデル化するプロセスおよびジャーニー要素とを組み合わせてモデル化される。
 
-## Stakeholder
-Synonym for co-creator.
+## ステークホルダ (Stakeholder)
+[コ・クリエーター](#コ・クリエーター-co-creator)と同義。
 
-## Story (explanatory)
-A story giving instructions or explanations related to a task, such as "how to use this product".
+## ストーリー (説明的) (Story (explanatory))
+「この製品の使い方」など、タスクに関連する指示や説明を与えるストーリー。
 
-## Story (promotional)
-A story to describe or draw attention to a product, brand or content.
+## ストーリー (プロモーション) (Story (promotional))
+製品、ブランド、コンテンツについて説明したり、注目を集めたりするためのストーリー。
 
-## Story (transactional)
-A story describing a transaction related to a task, such as "where to buy this product".
+## ストーリー (取引) (Story (transactional))
+「この商品をどこで買うか」のような、タスクに関連する取引を説明するストーリー。
 
-## Strategy
-An actionable pathway towards achieving the purpose of the enterprise. Strategy sets direction for the design and realisation of goals and capabilities.
 
-## System Software
-System software is software that is required to run applications. Examples: operating systems, databases.
+## 戦略 (Strategy)
+エンタープライズの目的達成に向けた実行可能な道筋。戦略は、ゴールとケイパビリティのデザインと実現の方向性を定める。
 
-## Task (emotional)
-How people want to feel while completing a task.
+## システム・ソフトウェア (System Software)
+システム・ソフトウェアとは、アプリケーションを実行するために必要なソフトウェアのこと。例：オペレーティングシステム、データベース。
 
-## Task (functional)
-A problem or need people want to solve or address by completing a task.
+## タスク (情緒的) (Task (emotional))
+人がタスクを完了する間にどのように感じたいか。
 
-## Task (social)
-How people want to be perceived by others while completing a task.
+## タスク (機能的) (Task (functional))
+タスクを完了することによって、人々が解決したい、または対処したい問題やニーズ。
 
-## Team
-A group of people who work together on a particular job. See also organisational unit [2]
+## タスク (社会的) (Task (social))
+人はタスクを完了する間、他人からどのように思われたいか。
 
-## Touchpoint
-A touchpoint is a moment of interaction between an enterprise and people. Touchpoints can be modelled using the enterprise element journey to represent moments over time, or channel to represent the means of interaction.
+## チーム (Team)
+特定の仕事を一緒に行う人々の集団。組織単位も参照。[2]
 
-## User
-A person using a product, asset or other object.
+## タッチポイント (Touchpoint)
+タッチポイントとは、エンタープライズと人々の間の相互作用の瞬間である。タッチポイントは、時間の経過に伴う瞬間を表すエンタープライズ要素のジャーニー、または相互作用の手段を表すチャネルを用いてモデル化することができる。
 
-## Value
+## ユーザー (User)
+製品、資産、その他の対象を使用する人。
+
+## 価値 (Value)
 The quality of being useful or important. A belief about what is right and wrong and what is important in life. [2]
+有用、あるいは重要であるという性質。人生において何が正しく、何が間違いか、また何が重要であるかについての信念。[2]
 
-In enterprises, value is created as intended outcomes often outside the company when the right product supports the right tasks for the right people in the right context.
+エンタープライズにおいては、適切な製品が適切な状況下で適切な人々の適切なタスクをサポートすることで、専ら組織の外で意図された成果として価値が生み出される。
 
-## Value stream
-Value streams are the major horizontal processes in any enterprise with a clear goal: to satisfy or to delight the customer. [4]
+## バリュー・ストリーム (Value stream)
+バリュー・ストリームとは、「顧客を満足させる」「顧客を喜ばせる」という明確な目標を持つ、エンタープライズにおける主要な水平プロセスのことである[4]。[4]
 
-Value streams are modelled using the enterprise element process.
+バリュー・ストリームはエンタープライズ要素のプロセスを用いてモデル化される。
 
-## Vision
-An idea or a picture of the enterprise in your imagination. [2] In EDGY the enterprise vision is a depiction of an idealised, usually future version of the enterprise, captured as stories and communicated as content.
+## ビジョン (Vision)
+想像の中にある企業のアイデアやイメージ。[2]EDGYでは、エンタープライズ・ビジョンとは、理想化された、通常は将来のエンタープライズの姿を描いたものであり、ストーリーとしてとらえられ、コンテンツとして伝達される。
 
 ---
-特に断りのない限り、コンテンツはCC BY-SA 4.0ライセンスの下で利用可能です。
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
+<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>

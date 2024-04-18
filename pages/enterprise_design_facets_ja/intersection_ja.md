@@ -29,6 +29,6 @@ tags:
 私たちのアイデンティティは、エクスペリエンスを通じて人々に認識されます。私たちのブランドは、人々のエクスペリエンスの中で認識される私たちのアイデンティティを反映しています。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
+<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 

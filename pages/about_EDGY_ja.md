@@ -79,6 +79,6 @@ EDGYは、[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4
 enterprise.designは[Wikipedia](https://wikipedia.org/)を支えるソフトウェアである[MediaWiki](https://mediawiki.org/)を使用し、[Citizen Skin](https://www.mediawiki.org/wiki/Skin:Citizen)をベースにしています。
 
 ---
-特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](/pages/license_ja.md)の下で利用可能です。
-<br><a href="/pages/license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
+特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./license_ja.md)の下で利用可能です。
+<br><a href="./license_ja.md"> <img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/cc.png?raw=true" alt="CC logo"></a>
 
