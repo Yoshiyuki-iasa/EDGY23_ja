@@ -39,12 +39,12 @@ Miroverseのこのテンプレートを使って、EDGYステンシルやマッ�
 お気に入りのプレゼンテーションソフトを使って、EDGYマップを描きましょう。
 <a href="https://edgydownloads.gr8.com/" target="_blank"><img src="https://enterprise.design/w/images/thumb/f/f8/EDGY-Presentation-Slides-Powerpoint.png/450px-EDGY-Presentation-Slides-Powerpoint.png" width="30%" alt="EDGYプレゼンテーションスライドテンプレート"></a>
 
-[**Download the EDGYスライドデッキテンプレートをダウンロード**](https://edgydownloads.gr8.com/)
+[**EDGYスライドデッキテンプレートをダウンロード**](https://edgydownloads.gr8.com/)
 
 ## EDGY SVG型式図形
 EDGYのシェイプとアイコンをお気に入りのドローイングソフトにインポートしましょう。
 <a href="https://edgydownloads.gr8.com/" target="_blank"><img src="https://enterprise.design/w/images/thumb/0/09/EDGY-SVG-Shapes.png/450px-EDGY-SVG-Shapes.png" width="30%" alt="EDGY SVG型式図形"></a>
-[**Download the EDGY SVG shapes**](https://edgydownloads.gr8.com/)
+[**SVG型式のEDGYシェイプをダウンロード**](https://edgydownloads.gr8.com/)
 
 ## PlantUMLでEDGYをつかう
 オープンソースのダイアグラム・ジェネレーターでEDGYマップを生成できます。

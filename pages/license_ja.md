@@ -24,21 +24,12 @@ tags:
 
 Edition EDGY 23 — Language Foundations
 
-Intersection Group
-Am Schierlinggrund 56
-1220 Vienna, Austria
-hello@intersection.group
-www.intersection.group
+Intersection Group<br>
+Am Schierlinggrund 56<br>1220 Vienna, Austria<br>hello@intersection.group<br>www.intersection.group
 
-Compiled and curated by: Bard Papegaaij, Wolfgang Goebl and Milan Guenther
-Art direction: Dennis Middeke
-Home artwork: Fabio Catapano
-Home illustration and visualisation: Alexandre Simon
-Book design and layout: Nadine Rotem-Stibbe
-Animations: Hubert Forgeot
-Web design and development: Jean-Sébastien Daigle, Matthias Dunker and Milan Guenther
+編集・監修: Bard Papegaaij, Wolfgang Goebl and Milan Guenther<br>アートディレクション: Dennis Middeke<br>Homeのアートワーク: Fabio Catapano<br>Homeのイラストレーション・ビジュアライゼーション: Alexandre Simon<br>ブックデザイン・レイアウト: Nadine Rotem-Stibbe<br>アニメーション: Hubert Forgeot<br>ウェブデザイン・開発: Jean-Sébastien Daigle, Matthias Dunker and Milan Guenther
 
-Thank you to our reviewers and contributors: Andre Vidigal, Annika Klyver, Antonio Bruno, Arian Jacobs, Enrico Levesque, Eric Letarte, Flavio Fabiani, Goh Hirose, Helgi Björgvinsson, Igor Arkhipov, Jason Baragry, Jean-Baptiste Sarrodie, John Mortimer, Karl Walter Keirstadt, Kine Olsen, Lisa Woodall, Lyronne Rangan, Marc Lankhorst, Oliver Cronk, Pascal Dussart, Richard Thackeray, Robert Pike, Roger Stoffers, Tom Graves, Tomomi Sasaki, Tony Benedict.
+レビュアーと寄稿者に感謝します: Andre Vidigal, Annika Klyver, Antonio Bruno, Arian Jacobs, Enrico Levesque, Eric Letarte, Flavio Fabiani, Goh Hirose, Helgi Björgvinsson, Igor Arkhipov, Jason Baragry, Jean-Baptiste Sarrodie, John Mortimer, Karl Walter Keirstadt, Kine Olsen, Lisa Woodall, Lyronne Rangan, Marc Lankhorst, Oliver Cronk, Pascal Dussart, Richard Thackeray, Robert Pike, Roger Stoffers, Tom Graves, Tomomi Sasaki, Tony Benedict.
 
 enterprise.design is running MediaWiki, the software behind Wikipedia.
 

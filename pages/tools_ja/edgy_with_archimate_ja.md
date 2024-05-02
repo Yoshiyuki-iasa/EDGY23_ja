@@ -14,7 +14,7 @@ tags:
 
 このマッピングは、EDGYエンタープライズ要素を対応する[ArchiMate®](https://pubs.opengroup.org/architecture/archimate32-doc)要素にリンクします。より具体的には、EDGY要素は対応するArchiMate要素の特化として表現することができます。このメカニズムの詳細については、公式ドキュメントの[概念の特化](https://pubs.opengroup.org/architecture/archimate32-doc/ch-Language-Customization-Mechanisms.html#sec-Specialization-of-Concepts)の章を参照してください。
 
-## 本マッピングの使用
+## このマッピングの使い方
 このマッピングは、一般的なエンタープライズ・デザイン手法、とりわけEDGYは、あるイニシアチブの戦略的背景の構築に使用されるという考えに基づいて設計されています。したがって、このArchiMate®へのマッピングは、モチベーション要素とストラテジー層の要素にフォーカスしており、ArchiMateのコア要素は、EDGYが直接カバーしない他のレイヤーに用いられます。使用コンテキストによっては、別のマッピングも可能です。
 
 ArchiMate® 3.2の特化メカニズムにより、どのようなツールや環境でも、EDGY要素を使って企業をモデル化できます。このマッピングは主に次のふたつのユースケースを念頭に設計されています：
@@ -25,7 +25,7 @@ ArchiMate® 3.2の特化メカニズムにより、どのようなツールや�
 ## ベース要素
 EDGYのベース要素は、すべてのファセットに共通の語彙を構築します。これらは、ArchiMate®で使用されているタイプ (能動構造と受動構造、振る舞いとモチベーション) に概念的に対応しています。しかし、これらのカテゴリーとは異なり、ファセット要素やインターセクション要素で特にカバーされていないエンタープライズ要素間の相互作用のモデル化に使用されるため、具体的なArchiMate®要素にマッピングされます。
 
-<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY_Base_Elements_ArchiMate_mapping (1).png?raw=true" width="100%" alt="EDGY Base Elements ArchiMate mapping.png"><br>
+<img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY_Base_Elements_ArchiMate_mapping.png?raw=true" width="100%" alt="EDGY Base Elements ArchiMate mapping.png"><br>
 
 |EDGY要素|ArchiMate®要素|所見|
 |---|---|---|
@@ -56,8 +56,6 @@ EDGYでは、以下の要素はそれぞれ対応するエンタープライズ�
 |ブランド|ステークホルダ|EDGYは、ブランドとは名前とそれを象徴するものであり、人々のグループ、評判、行動を表すものであると定義している。<br>ArchiMate®では、これを一種の（名前付き）ステークホルダーとしてモデル化するのが最適である。|
 
 ## リレーションシップ
-EDGY only has three relationship types that can be mapped to similarly generic relations in ArchiMate®, in order to permit flexible modelling.
-
 EDGYは3つの関係タイプで柔軟なモデリングを可能にし、それらは同様に汎用的なArchiMate®の関係にマッピングできます。
 
 <br><img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY_ArchiMate_Relationships.png?raw=true" width="50%" alt="EDGY ArchiMate Relationships.png">
@@ -75,10 +73,10 @@ EDGYダイアグラム表記法は、代替のシェイプやカラーを組み�
 - 異なるタイプの要素を区別するタグは、このマッピングを超えてさらにArchiMate®の特化を定義することができます。
 - ツールのサポートによっては、リポジトリに要素と一緒に保存されている属性や、単純なグラフィカル・オーバーレイになることもあります。これは、追加されたメトリクスにも当てはまります。
 
-<br><img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-ArchiMate-Mapping-Labels.png?raw=true" width="50%" alt="EDGY-ArchiMate-Mapping-Labels.png">
+<br><img src="https://github.com/Yoshiyuki-iasa/EDGY23_ja/blob/main/media/EDGY-ArchiMate-Mapping-Labels.png?raw=true" width="100%" alt="EDGY-ArchiMate-Mapping-Labels.png">
 _カスタム・マッピングの例_
 
-あなたの仕事やツールで、EDGYからArchiMate™へのマッピングの使用を検討しているときは、私たちのコミュニティに参加して仲間と交流し、そのさらなる発展に関わってください。
+仕事やツールでこのEDGYからArchiMate™へのマッピングの使用を検討しているデザイナーは、私たちのコミュニティに参加し、仲間との交流を通じてそのさらなる発展に関わることができます。
 
 ---
 特に断りのない限り、コンテンツは[CC BY-SA 4.0ライセンス](./pages/license_ja.md)の下で利用可能です。
