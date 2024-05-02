@@ -37,36 +37,36 @@ Miroverseのこのテンプレートを使って、EDGYステンシルやマッ�
 
 ## GoogleスライドおよびPowerPoint用EDGY
 お気に入りのプレゼンテーションソフトを使って、EDGYマップを描きましょう。
-<a href="https://edgydownloads.gr8.com/" target="_blank"><img src="https://enterprise.design/w/images/thumb/f/f8/EDGY-Presentation-Slides-Powerpoint.png/450px-EDGY-Presentation-Slides-Powerpoint.png" width="30%" alt="EDGYプレゼンテーションスライドテンプレート"></a>
+<br><a href="https://edgydownloads.gr8.com/" target="_blank"><img src="https://enterprise.design/w/images/thumb/f/f8/EDGY-Presentation-Slides-Powerpoint.png/450px-EDGY-Presentation-Slides-Powerpoint.png" width="30%" alt="EDGYプレゼンテーションスライドテンプレート"></a>
 
 [**EDGYスライドデッキテンプレートをダウンロード**](https://edgydownloads.gr8.com/)
 
 ## EDGY SVG型式図形
 EDGYのシェイプとアイコンをお気に入りのドローイングソフトにインポートしましょう。
-<a href="https://edgydownloads.gr8.com/" target="_blank"><img src="https://enterprise.design/w/images/thumb/0/09/EDGY-SVG-Shapes.png/450px-EDGY-SVG-Shapes.png" width="30%" alt="EDGY SVG型式図形"></a>
+<br><a href="https://edgydownloads.gr8.com/" target="_blank"><img src="https://enterprise.design/w/images/thumb/0/09/EDGY-SVG-Shapes.png/450px-EDGY-SVG-Shapes.png" width="30%" alt="EDGY SVG型式図形"></a>
 [**SVG型式のEDGYシェイプをダウンロード**](https://edgydownloads.gr8.com/)
 
 ## PlantUMLでEDGYをつかう
 オープンソースのダイアグラム・ジェネレーターでEDGYマップを生成できます。
-<a href="https://plantuml.com/stdlib#7c3d1cde3762ae3b" target="_blank"><img src="https://enterprise.design/w/images/thumb/0/05/EDGY-PlantUML.png/450px-EDGY-PlantUML.png" width="30%" alt=""></a>
+<br><a href="https://plantuml.com/stdlib#7c3d1cde3762ae3b" target="_blank"><img src="https://enterprise.design/w/images/thumb/0/05/EDGY-PlantUML.png/450px-EDGY-PlantUML.png" width="30%" alt=""></a>
 
 [**PlantUMLでEDGYをつかう**](https://plantuml.com/stdlib#7c3d1cde3762ae3b)
-
 
 ## パートナー・ツール
 Intersection Groupは、[ソリューションパートナー](https://intersection.group/about/partners)と協力し、商用エンタープライズソフトウェアツールでEDGYを利用できるようにしています。このようなパートナーシップにご興味のある方は、ぜひ[ご連絡](https://intersection.group/become-a-member.php)ください。
 
 ### QualiWareサポート
 [QualiWare](https://qualiware.com/edgy)は、クラウドベースのエンタープライズ・アーキテクチャ管理環境を提供します。EDGY 23を使用したリポジトリコンテンツのモデリングがサポートされ、完全な商用ライセンスとともに提供されます。
-<a href="https://qualiware.com/edgy" target="_blank"><img src="https://enterprise.design/w/images/thumb/c/ce/EDGY-in-QualiWare.png/450px-EDGY-in-QualiWare.png" width="30%" alt="EDGY in QualiWare"></a>
+<br><a href="https://qualiware.com/edgy" target="_blank"><img src="https://enterprise.design/w/images/thumb/c/ce/EDGY-in-QualiWare.png/450px-EDGY-in-QualiWare.png" width="30%" alt="EDGY in QualiWare"></a>
 
 [**QualiWareとEDGYについてさらにくわしく**](https://qualiware.com/edgy)
 
 ## マッピング
 EDGYはひとりではありません。実際に、他の方法、アプローチ、ツールとともに使用されています。ここでは、EDGYを補完的なツールと併用し、統合されたアプローチを開発するためのマッピングを提供します。
+
 ### EDGYとArchiMate®
 このマッピングは、The Open Group®によって開発されたエンタープライズアーキテクチャのためのオープンで独立したモデリング言語であるArchiMate®とEDGYとの組み合わせを可能にします。ArchiMateはさまざまなツールベンダーによってサポートされており、組み込みの特化メカニズムを使用してEDGYマップを作成することができます。
-<a href="https://enterprise.design/wiki/EDGY:ArchiMate" target="_blank"><img src="https://enterprise.design/w/images/thumb/0/00/EDGY_Facet_Intersection_Elements_ArchiMate_mapping.png/375px-EDGY_Facet_Intersection_Elements_ArchiMate_mapping.png" width="30%" alt="EDGYとArchiMate®"></a>
+<br><a href="https://enterprise.design/wiki/EDGY:ArchiMate" target="_blank"><img src="https://enterprise.design/w/images/thumb/0/00/EDGY_Facet_Intersection_Elements_ArchiMate_mapping.png/375px-EDGY_Facet_Intersection_Elements_ArchiMate_mapping.png" width="30%" alt="EDGYとArchiMate®"></a>
 
 [**EDGYとArchiMate®についてさらにくわしく**](edgy_with_archimate_ja.md)
 
